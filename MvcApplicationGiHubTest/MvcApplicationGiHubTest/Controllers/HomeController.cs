@@ -19,7 +19,6 @@ namespace MvcApplicationGiHubTest.Controllers
         {
             ViewBag.Message = "Your app description page. Plus I have added my own custom text in the view bag's message!";
             ViewBag.Message = "I think I just managed to configure the whole Git/GitHub ****";
-            ViewBag.Message = "Hello there!";
 
             return View();
         }
